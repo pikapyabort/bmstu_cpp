@@ -1,0 +1,5 @@
+|  index |code of the subject |name of the subject |lecturer's name |    group | number of students | lectures time | practice time |course work |exam or credit |
+|       1|                2130|                math|    prozorovskiy|        21|                  22|            213|            123|          no|           yes|
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+subjects in database: 1
+total time: 7403

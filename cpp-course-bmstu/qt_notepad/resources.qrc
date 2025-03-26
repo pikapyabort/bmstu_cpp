@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/newfile.png</file>
+        <file>icons/open.png</file>
+        <file>icons/saveall.png</file>
+        <file>icons/save.png</file>
+    </qresource>
+    <qresource>
+        <file>highlighter.xml</file>
+    </qresource>
+</RCC>

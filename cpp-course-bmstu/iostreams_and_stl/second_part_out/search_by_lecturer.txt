@@ -1,0 +1,3 @@
+|  index |code of the subject |name of the subject |lecturer's name |    group | number of students | lectures time | practice time |course work |exam or credit |
+|       1|               12313|             algebra|       deryabina|        11|                  30|            230|            240|          no|           yes|
+|       2|              293842|                 c++|        bogdanov|        21|                  26|            239|            170|          no|           yes|
